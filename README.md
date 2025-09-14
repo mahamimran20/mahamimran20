@@ -34,7 +34,12 @@ I’m currently pursuing a B.S. in Software Engineering at the University of Tex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/mahamimran20/mahamimran20/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mahamimran20/mahamimran20/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mahamimran20/mahamimran20/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Graph Snake Animation" src="https://github.com/mahamimran20/mahamimran20/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahamimran20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
