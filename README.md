@@ -34,8 +34,7 @@ I’m currently pursuing a B.S. in Software Engineering at the University of Tex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahamimran20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Snake animation](https://github.com/mahamimran20/mahamimran20/blob/output/github-contribution-grid-snake.svg)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahamimran20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
