@@ -2,12 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs at 00:00 and 12:00 UTC every day
-    - cron: "0 */12 * * *"
-  workflow_dispatch: {}
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:
 
 permissions:
-  contents: write   # needed to push the generated files to the output branch
+  contents: write   # Needed to push the SVG to the output branch
 
 jobs:
   build:
@@ -17,9 +16,8 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk@master
         with:
-          github_user_name: mahamimran20
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          github_user_name: mahamirman20   # <-- Your exact GitHub username
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
