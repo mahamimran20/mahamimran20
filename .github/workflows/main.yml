@@ -21,6 +21,7 @@ jobs:
           color_snake: "#4fc3f7"          # Snake color (GitHub green)
           color_dots: "#0d1117,#0a2342,#144272,#205295,#2c74b3" 
           # order: empty, low, mid, high, max activity
+          color_bg: "#0d1117"   # << This forces a dark background
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
