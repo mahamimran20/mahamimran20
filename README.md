@@ -10,7 +10,10 @@ I’m currently pursuing a B.S. in Software Engineering at the University of Tex
 🌱 Continuously expanding skills in full-stack development and data-driven applications<br/>
 ✨ Bringing together both technical and analytical skills to create efficient, user-focused solutions<br/>
 
-![Maham's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamimran20&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahamimran20&show_icons=true&theme=radical" alt="Maham's GitHub stats" width="425"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamimran20&theme=radical" alt="GitHub Streak" width="450"/>
+</div>
 
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
