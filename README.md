@@ -4,9 +4,9 @@
 I’m currently pursuing a B.S. in Software Engineering at the University of Texas at Dallas. I enjoy learning new technologies, building impactful projects, and sharing my journey in tech. My interests include front-end development, software design, databases, and real-world applications of technology.
 
 🎓 Currently pursuing Software Engineering at the University of Texas at Dallas<br/>
-💻 Actively working on Front-End Development with React, HTML, CSS, and JavaScript<br/>
+💻 Built responsive web apps with React and JavaScript<br/>
 🗄️ Experienced in MySQL for database management and Power BI for data visualization<br/>
-📊 Proficient in Microsoft Excel for analysis, reporting, and automation<br/>
+📊 Delivered data insights using Power BI and Excel automation<br/>
 🌱 Continuously expanding skills in full-stack development and data-driven applications<br/>
 ✨ Bringing together both technical and analytical skills to create efficient, user-focused solutions<br/>
 
