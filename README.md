@@ -37,4 +37,5 @@ I’m currently pursuing a B.S. in Software Engineering at the University of Tex
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahamimran20&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mahamimran20/mahamimran20/blob/output/github-contribution-grid-snake.svg)
+
