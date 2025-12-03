@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maham Imran</h1>
-<h3 align="center">Aspiring Software Engineer | Front-End Enthusiast | UX Designer</h3>
+<h3 align="center">Aspiring Software Engineer  | Front-End Enthusiast | UX Designer</h3>
 
 I’m currently pursuing a B.S. in Software Engineering at the University of Texas at Dallas. I enjoy learning new technologies, building impactful projects, and sharing my journey in tech. My interests include front-end development, software design, databases, and real-world applications of technology.
 
