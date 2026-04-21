@@ -51,6 +51,7 @@ I’m currently pursuing a B.S. in Software Engineering at the University of Tex
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy-roan.vercel.app/?username=mahamimran20&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-roan.vercel.app/?username=mahamimran20&no-bg=true&margin-w=10&margin-h=10" />
 </p>
+
 
