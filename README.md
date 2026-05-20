@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Maham Imran</h1>
-<h3 align="center">Aspiring Software Engineer | Front-End Enthusiast | UX Designer</h3>
+<h3 align="center">Software Engineer | Front-End Enthusiast | UX Designer</h3>
 
-I’m currently pursuing a B.S. in Software Engineering at the University of Texas at Dallas. I enjoy learning new technologies, building impactful projects, and sharing my journey in tech. My interests include front-end development, software design, databases, and real-world applications of technology.
+🎓 Graduated with a B.S. in Software Engineering from the University of Texas at Dallas. I enjoy learning new technologies, building impactful projects, and sharing my journey in tech. My interests include front-end development, software design, databases, and real-world applications of technology.
 
-🎓 Currently pursuing Software Engineering at the University of Texas at Dallas<br/>
+🎓 Graduated with a B.S. Software Engineering at the University of Texas at Dallas<br/>
 💻 Built responsive web apps with React and JavaScript<br/>
 🗄️ Experienced in MySQL for database management and Power BI for data visualization<br/>
 📊 Delivered data insights using Power BI and Excel automation<br/>
